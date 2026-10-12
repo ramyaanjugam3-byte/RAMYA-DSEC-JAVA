@@ -1,0 +1,19 @@
+public class ProductCard {
+    public static void main(String[] args) {
+        // Variable declarations
+        String productName = "Headphones";
+        int productId = 10123;
+        double price = 80.99;
+        boolean isAvailable = true;
+
+        // Formatted Card Display
+        System.out.println("===========");
+        System.out.println(" PRODUCT INFO CARD ");
+        System.out.println("===========");
+        System.out.println("Product Name : " + productName);
+        System.out.println("Product ID   : " + productId);
+        System.out.println("Price        : $" + price);
+        System.out.println("Availability : " + (isAvailable ? "In Stock" : "Out of Stock"));
+        System.out.println("====");
+    }
+}
