@@ -1,0 +1,54 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Name\t: Arun\nCourse\t: Java\nLevel\t: Beginner");
+    }
+}
+
+QUESTION2:
+   
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Name\t: Arun\nCourse\t: Java\nLevel\t: Beginner");
+    }
+}
+
+
+QUESTION3:
+    
+public class Main {
+    public static void main(String[] args) {
+        // \t creates a tab space, \n creates a new line
+        System.out.print("Name\t: Arun\nCourse\t: Java\nLevel\t: Beginner\n");
+    }
+}
+
+QUESTION4:
+
+     public class Main {
+    public static void main(String[] args) {
+        // Using print() instead of println() keeps the output on the same line
+        System.out.print("Java is simple ");
+        System.out.print("Java is powerful");
+    }
+}
+
+QUESTION4:
+
+    public class Main {
+    public static void main(String[] args) {
+        // Using print() instead of println() keeps the output on the same line
+        System.out.print("Java is simple ");
+        System.out.print("Java is powerful");
+    }
+}
+
+
+
+QUESTION5:
+
+     public class Main {
+    public static void main(String[] args) {
+        // \t creates a tab space, \n creates a new line
+        System.out.print("Name\t: Arun\nCourse\t: Java\nLevel\t: Beginner\n");
+    }
+}
